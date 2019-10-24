@@ -244,8 +244,8 @@ module.exports  = {
 
 ## 파일 정보 및 목록 (File Manifest)
 
-- ### [프론트엔드 문서](/tree/master/fe)
-- ### [서버 기술 문서](/tree/master/be)
+- ### [프론트엔드 문서](/fe/README.md)
+- ### [서버 기술 문서](/be/README.md)
 
 
 ## 저작권 및 사용권 정보 (Copyright / End User License)
